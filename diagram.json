@@ -10,7 +10,7 @@
         "id": "led2",
         "top": 82.8,
         "left": -15.4,
-        "attrs": { "color": "yellow" }
+        "attrs": { "color": "blue" }
       },
       {
         "type": "wokwi-led",
