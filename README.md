@@ -87,13 +87,10 @@ A interrupção é utilizada para acionar o evento de ligar os LEDs e iniciar a 
 
 ![image](https://github.com/user-attachments/assets/8c8b7098-08cf-4f7f-b6cd-485401b5fc96)
 
-## 🔗 **Link do Vídeo de Funcionamento**: 
-
-https://drive.google.com/file/d/1z7KSB5yTfnw8luRekICxHLJt66-nt8jP/view?usp=sharing
 
 📞 **Contato**:
 
-👤 Autor: Jonas Souza Pinto
+👤 Autor: Jonas Souza 
 
 📧 E-mail: Jonassouza871@hotmail.com
 
