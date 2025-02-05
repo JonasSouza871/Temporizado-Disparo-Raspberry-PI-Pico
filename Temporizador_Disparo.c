@@ -15,6 +15,7 @@ void tratar_interrupcao_botao(uint gpio, uint32_t eventos);
 
 // Função para desligar todos os LEDs
 int64_t desligar_leds(alarm_id_t id, void *unused) {
+    sleep_ms(50); // Debouncing
     gpio_put(LED_VERDE, 0);
     gpio_put(LED_VERMELHO, 0);
     gpio_put(LED_AZUL, 0); //desligado
